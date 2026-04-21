@@ -277,5 +277,66 @@
             </div>
         </div>
     </section>
+
+    <!-- ========== CONTACT US SECTION (Epic 5) ========== -->
+    <section class="contact" id="contact">
+        <div class="section-container">
+            <div class="section-header">
+                <span class="section-badge">Contact</span>
+                <h2 class="section-title">Let's Start a <span class="gradient-text">Conversation</span></h2>
+                <p class="section-subtitle">Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.</p>
+            </div>
+
+            <div class="contact-wrapper">
+                <div class="contact-info">
+                    <div class="contact-info-card">
+                        <div class="contact-info-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div>
+                            <h4>Email Us</h4>
+                            <p>support@quickpos.com</p>
+                        </div>
+                    </div>
+                    <div class="contact-info-card">
+                        <div class="contact-info-icon">
+                            <i class="fas fa-phone"></i>
+                        </div>
+                        <div>
+                            <h4>Call Us</h4>
+                            <p>+1 (555) 123-4567</p>
+                        </div>
+                    </div>
+                    <div class="contact-info-card">
+                        <div class="contact-info-icon">
+                            <i class="fas fa-location-dot"></i>
+                        </div>
+                        <div>
+                            <h4>Visit Us</h4>
+                            <p>123 Tech Avenue, Silicon Valley, CA</p>
+                        </div>
+                    </div>
+                </div>
+
+                <form class="contact-form" action="contact.php" method="POST" id="contactForm">
+                    <div class="form-group">
+                        <label for="name" class="form-label">Full Name</label>
+                        <input type="text" id="name" name="name" class="form-input" placeholder="John Doe" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email" class="form-label">Email Address</label>
+                        <input type="email" id="email" name="email" class="form-input" placeholder="john@example.com" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message" class="form-label">Your Message</label>
+                        <textarea id="message" name="message" class="form-input form-textarea" placeholder="Tell us how we can help..." rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block" id="submitBtn">
+                        Send Message <i class="fas fa-paper-plane"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
