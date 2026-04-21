@@ -148,5 +148,54 @@
             </div>
         </div>
     </section>
+
+     <!-- ========== FEATURES SECTION (Epic 3) ========== -->
+    <section class="features" id="features">
+        <div class="section-container">
+            <div class="section-header">
+                <span class="section-badge">Features</span>
+                <h2 class="section-title">Everything You Need to <span class="gradient-text">Run Your Business</span></h2>
+                <p class="section-subtitle">Powerful tools designed to simplify your daily operations and help you focus on what matters most — your customers.</p>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon icon-blue">
+                        <i class="fas fa-boxes-stacked"></i>
+                    </div>
+                    <h3 class="feature-title">Inventory Management</h3>
+                    <p class="feature-desc">Track stock levels in real-time, set automatic reorder alerts, and manage multiple warehouse locations from a single dashboard.</p>
+                    <a href="#" class="feature-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon icon-purple">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <h3 class="feature-title">Sales Analytics</h3>
+                    <p class="feature-desc">Get deep insights into your sales trends, customer behavior, and revenue growth with intuitive charts and detailed reports.</p>
+                    <a href="#" class="feature-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon icon-green">
+                        <i class="fas fa-plug"></i>
+                    </div>
+                    <h3 class="feature-title">Easy Integration</h3>
+                    <p class="feature-desc">Connect seamlessly with your favorite payment processors, accounting software, and e-commerce platforms in minutes.</p>
+                    <a href="#" class="feature-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon icon-orange">
+                        <i class="fas fa-shield-halved"></i>
+                    </div>
+                    <h3 class="feature-title">Secure Payments</h3>
+                    <p class="feature-desc">PCI-compliant payment processing with end-to-end encryption. Accept cards, digital wallets, and contactless payments safely.</p>
+                    <a href="#" class="feature-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
