@@ -339,7 +339,7 @@
         </div>
     </section>
 
-     <!-- ========== FOOTER (Epic 6) ========== -->
+     <!-- ========== FOOTER (Epic 6 updated) ========== -->
     <footer class="footer" id="footer">
         <div class="footer-container">
             <div class="footer-main">
