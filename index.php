@@ -197,5 +197,85 @@
             </div>
         </div>
     </section>
+
+    <!-- ========== PRICING SECTION (Epic 4) ========== -->
+    <section class="pricing" id="pricing">
+        <div class="section-container">
+            <div class="section-header">
+                <span class="section-badge">Pricing</span>
+                <h2 class="section-title">Simple, Transparent <span class="gradient-text">Pricing</span></h2>
+                <p class="section-subtitle">Choose the plan that fits your business. No hidden fees, no surprises. Start free and upgrade as you grow.</p>
+            </div>
+
+            <div class="pricing-grid">
+                <!-- Basic Plan -->
+                <div class="pricing-card">
+                    <div class="pricing-header">
+                        <span class="pricing-plan">Basic</span>
+                        <p class="pricing-desc">Perfect for small businesses getting started</p>
+                    </div>
+                    <div class="pricing-amount">
+                        <span class="pricing-currency">$</span>
+                        <span class="pricing-price">29</span>
+                        <span class="pricing-period">/month</span>
+                    </div>
+                    <ul class="pricing-features">
+                        <li><i class="fas fa-check"></i> 1 Register</li>
+                        <li><i class="fas fa-check"></i> Up to 500 products</li>
+                        <li><i class="fas fa-check"></i> Basic sales reports</li>
+                        <li><i class="fas fa-check"></i> Email support</li>
+                        <li class="disabled"><i class="fas fa-xmark"></i> Multi-location</li>
+                        <li class="disabled"><i class="fas fa-xmark"></i> API access</li>
+                    </ul>
+                    <a href="#contact" class="btn btn-outline btn-block">Get Started</a>
+                </div>
+
+                <!-- Pro Plan -->
+                <div class="pricing-card pricing-popular">
+                    <div class="popular-badge">Most Popular</div>
+                    <div class="pricing-header">
+                        <span class="pricing-plan">Pro</span>
+                        <p class="pricing-desc">For growing businesses that need more</p>
+                    </div>
+                    <div class="pricing-amount">
+                        <span class="pricing-currency">$</span>
+                        <span class="pricing-price">79</span>
+                        <span class="pricing-period">/month</span>
+                    </div>
+                    <ul class="pricing-features">
+                        <li><i class="fas fa-check"></i> 5 Registers</li>
+                        <li><i class="fas fa-check"></i> Unlimited products</li>
+                        <li><i class="fas fa-check"></i> Advanced analytics</li>
+                        <li><i class="fas fa-check"></i> Priority support</li>
+                        <li><i class="fas fa-check"></i> Multi-location</li>
+                        <li class="disabled"><i class="fas fa-xmark"></i> API access</li>
+                    </ul>
+                    <a href="#contact" class="btn btn-primary btn-block">Get Started</a>
+                </div>
+
+                <!-- Enterprise Plan -->
+                <div class="pricing-card">
+                    <div class="pricing-header">
+                        <span class="pricing-plan">Enterprise</span>
+                        <p class="pricing-desc">For established businesses at scale</p>
+                    </div>
+                    <div class="pricing-amount">
+                        <span class="pricing-currency">$</span>
+                        <span class="pricing-price">199</span>
+                        <span class="pricing-period">/month</span>
+                    </div>
+                    <ul class="pricing-features">
+                        <li><i class="fas fa-check"></i> Unlimited Registers</li>
+                        <li><i class="fas fa-check"></i> Unlimited products</li>
+                        <li><i class="fas fa-check"></i> Custom reports</li>
+                        <li><i class="fas fa-check"></i> 24/7 phone support</li>
+                        <li><i class="fas fa-check"></i> Multi-location</li>
+                        <li><i class="fas fa-check"></i> Full API access</li>
+                    </ul>
+                    <a href="#contact" class="btn btn-outline btn-block">Contact Sales</a>
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
