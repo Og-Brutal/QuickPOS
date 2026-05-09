@@ -1,5 +1,23 @@
 # QuickPOS Landing Page
 
+![CI/CD Pipeline](https://github.com/Og-Brutal/QuickPOS/actions/workflows/ci.yml/badge.svg)
+
+## Team
+- Abdul-Wahab – Project Manager / QA
+- Mahad-Bashir – Tech Lead
+
+## Setup
+1. `git clone https://github.com/Og-Brutal/QuickPOS.git`
+2. `composer install`
+3. `php -S localhost:8000`
+4. Open `http://localhost:8000`
+5. Run tests: `./vendor/bin/phpunit --testdox`
+
+## Jira Board
+[https://ogbrutal2825.atlassian.net/jira/software/projects/POS/boards/2?sprintStarted=true&sprints=37]
+
+
+
 ![QuickPOS Preview](screenshots/preview.png)
 
 A modern, responsive, and pixel-perfect Point of Sale (POS) system landing page built with HTML5, CSS3, and PHP. This project was developed as part of the Software Design and Architecture course, demonstrating both product quality and professional process rigor.
