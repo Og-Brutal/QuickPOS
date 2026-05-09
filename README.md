@@ -13,6 +13,21 @@
 4. Open `http://localhost:8000`
 5. Run tests: `./vendor/bin/phpunit --testdox`
 
+## 📁 Project Structure
+
+```text
+quickpos/
+├── index.php         # Main application entry point
+├── contact.php       # Contact form logic/page
+├── thank-you.html    # Success redirect page
+├── tests/            # PHPUnit test cases
+├── phpunit.xml       # PHPUnit configuration file
+├── composer.json     # Project dependencies
+└── .github/
+    └── workflows/
+        └── ci.yml    # GitHub Actions CI/CD pipeline
+```      
+
 ## Jira Board
 [https://ogbrutal2825.atlassian.net/jira/software/projects/POS/boards/2?sprintStarted=true&sprints=37]
 
