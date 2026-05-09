@@ -58,4 +58,4 @@ We utilized professional development tools to manage this project:
 ```
 
 ---
-*Created for Software Design & Architecture Assignment.*
+*Created for Software Project Management .*
