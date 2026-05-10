@@ -89,4 +89,4 @@ The `main` branch is protected with the following rules:
 - Force pushes are blocked
 
 *Created for Software Project Management .*
-sucess_pipeline
+sucess_pipelin
